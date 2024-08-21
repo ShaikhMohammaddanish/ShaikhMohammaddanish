@@ -82,6 +82,6 @@ Looking for opportunities, learning new skills, and polishing current ones.
 #### CONNECT WITH ME 👁‍🗨
 
 
-<a href="https://www.linkedin.com/in/shaikh-danish-python-ml-developer/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="danish shaikh Profile" height="30" width="30"></a>
+<a href="https://www.linkedin.com/in/shaikh-danish-python-developer?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="danish shaikh Profile" height="30" width="30"></a>
 
 
