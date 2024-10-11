@@ -2,27 +2,22 @@
 ## Shaikh MOhammaddanish N. 🏠 Ahmedabad, Gujrat [![Github](https://img.shields.io/github/followers/ShaikhMohammaddanish?label=Followers&style=social)](https://github.com/ShaikhMohammaddanish)<!--&nbsp; [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=ShaikhMohammaddanish)](https://github.com/ShaikhMohammaddanish)-->
 
   
-  
-  
-  
-  
-  
-  
-
-## ABOUT ME
+ 
+### ABOUT ME
 
   
+- Highly skilled Python developer with five years of hands-on experience in web development and data analytics.
+- Skilled in database management with expertise in SQL and MongoDB, ensuring efficient data storage and retrieval. 
+ - Proficient in version control using Git, enabling collaborative and organized code management. 
+ - Experienced in Linux commands and basic Docker usage for effective development and deployment. 
+ - Developed real-time chat applications, showcasing the ability to create seamless communication platforms.
 
-A Full Stack Developer with Experience in Python, Django,React, Data analytics and Computer Vision. 
-Looking for opportunities, learning new skills, and polishing current ones.
-
+ ##### CONTACT
+ <a  href="https://www.linkedin.com/in/shaikh-danish-python-developer"  target="_blank">
+<img  src="https://img.icons8.com/?size=60&id=13930&format=png&color=000000"  alt="danish shaikh Profile"  height="60"  width="60"></a><a  href="https://wa.me/+919426951412"  target="_blank"><img  src="https://img.icons8.com/?size=60&id=16713&format=png&color=000000"  alt="danish shaikh Profile"  height="60"  width="60"></a>
   
   
-
 ---
-
-  
-
 ## KEY SKILLS :computer:
 
   
@@ -41,6 +36,7 @@ Looking for opportunities, learning new skills, and polishing current ones.
   
 
 #### FRAMEWORKS
+
 
 <img  src="https://cdn.worldvectorlogo.com/logos/django.svg"  alt="django"  width="40"  height="40"/> <img  src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"  alt="flask"  width="40"  height="40"/> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="bootstrap"  width="40"  height="40"/> 
 
@@ -82,15 +78,8 @@ Looking for opportunities, learning new skills, and polishing current ones.
 
 
 
-#### CONNECT WITH ME 👁‍🗨
 
 
-<a  href="https://www.linkedin.com/in/shaikh-danish-python-developer"  target="_blank">
-
-
-<img  src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"  alt="danish shaikh Profile"  height="30"  width="30"></a><a  href="https://wa.me/+919426951412"  target="_blank"><img  src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000"  alt="danish shaikh Profile"  height="30"  width="30">
-
-</a>
 
 
   
